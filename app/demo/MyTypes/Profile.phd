@@ -1,0 +1,12 @@
+<?php
+
+
+namespace Demo\MyTypes;
+
+
+Address
+{
+    int: no;
+    string: country;
+    string: state;
+}
